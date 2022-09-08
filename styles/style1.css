@@ -1,0 +1,30 @@
+h1 {
+    
+    color:rgb(61, 28, 63);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 0px;
+    
+ }
+
+ h2{
+    color: rgb(43, 43, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 0px
+    
+
+ }
+
+ p{
+   text-align: center;
+ }
+
+ .accordion-item {
+   display: block;color: rgb(43, 43, 112);
+   }
+
+   .progress {
+      color: blue;
+   }
+
+
+
