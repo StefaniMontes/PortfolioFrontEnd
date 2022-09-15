@@ -1,13 +1,13 @@
 h1 {
     
-    color:rgb(61, 28, 63);
+    color:rgb(43, 43, 112);
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin-left: 0px;
     
  }
 
  h2{
-    color: rgb(43, 43, 112);
+    color: crimson;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 0px
     
@@ -22,9 +22,11 @@ h1 {
    display: block;color: rgb(43, 43, 112);
    }
 
-   .progress {
-      color: blue;
-   }
 
+
+
+body {
+   background-color: lightslategrey;
+}   
 
 
